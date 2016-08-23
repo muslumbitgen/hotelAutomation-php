@@ -1,0 +1,2 @@
+--admin kullanýcý adý ve þifresini almak için;
+--bitgen63@gmail.com 
